@@ -41,18 +41,19 @@
 <p align="center">
     <img src="/SS/ss-1.jpg" alt="Home Page" width="400">
     <br>
-    <em>Home Page</em>
+    <em>Register & Login</em>
 </p>
 
 <p align="center">
     <img src="/SS/ss-2.jpg" alt="Generated Name" width="400">
     <br>
-    <em>Generated Names</em>
+    <em>View Buses & Book Seat</em>
 </p>
 
 <p align="center">
     <img src="/SS/ss-3.jpg" alt="Generated Name" width="400">
     <br>
+    <em>Make Payment, Admin Mode and logout</em>
 </p>
   <h2>License</h2>
 <p>This project is licensed under the project owner : Gajanan Joshi.</p>
